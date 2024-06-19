@@ -98,10 +98,6 @@ div.campo > input {
     transform: translateY(-13px);
 }
 
-div.campo > input.posicao {
-    transform: translateY(-12px);
-}
-
 div.campo > input:focus-within { /*quando ganhar foco*/
     background-color: white;
 }
